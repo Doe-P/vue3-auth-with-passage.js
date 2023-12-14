@@ -25,13 +25,13 @@ This repository is to do simple authentication with passage.js using vue.js 3
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Doe-P/vue3-auth-with-passage.js.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd vue3-auth-with-passage.js
 ```
 
 Install dependencies
