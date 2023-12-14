@@ -19,6 +19,8 @@ This repository is to do simple authentication with passage.js using vue.js 3
 - Logout
 - User detail
 
+## Demo
+static/demo.gif
 
 ## Run Locally
 
