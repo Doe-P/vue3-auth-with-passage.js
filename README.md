@@ -20,7 +20,7 @@ This repository is to do simple authentication with passage.js using vue.js 3
 - User detail
 
 ## Demo
-static/demo.gif
+[static/demo.gif](https://github.com/Doe-P/vue3-auth-with-passage.js/blob/master/static/demo.gif)
 
 ## Run Locally
 
